@@ -4,7 +4,7 @@
 - ⚛️ Skilled in React.js, Next.js, React Native and modern web and Mobile tools
 - 🚀 Always learning and exploring better frontend practices
 - 🤝 Open to collaborating on React/Next.js projects
-- 📫 Reach me at: your.email@example.com
+- 📫 Reach me at:ajitenadavid@gmail.com
 
 
 <!---
